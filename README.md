@@ -2,7 +2,7 @@
 
 This is a fully functional Hospital Management System (backend) that I built using the MERN STACK
 
-In the fast-paced world of healthcare, it’s vital to manage hospital tasks effectively to ensure top-notch patient care. This Project explores creating a strong Hospital Management App using the MERN stack – that’s MongoDB, Express, React, and Node.js.
+In the dynamic and demanding field of healthcare, efficient management of hospital operations is crucial to delivering high-quality patient care. This project aims to develop a robust Hospital Management Application using the MERN stack—MongoDB, Express, React, and Node.js.
 
 <tittle>Steps to Setup Backend with Node and Express:</tittle>
 
