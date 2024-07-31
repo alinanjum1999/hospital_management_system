@@ -15,6 +15,16 @@ npm init -y
 ```console
 npm install express mongoose body-parser
 ```
+The updated dependencies in package.json file for backend will look like:
+```console
+"dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0",
+}
+```
+
+
 Approach to Creating the Backend <br/>
 * Create the MongoDB Models
 * Design the MongoDB models for Appointments Doctors and Patient
@@ -31,3 +41,4 @@ Server is running on port 5000
 ```console
 node server.js
 ```
+
