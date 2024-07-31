@@ -6,19 +6,28 @@ In the fast-paced world of healthcare, it’s vital to manage hospital tasks eff
 
 * Steps to Setup Backend with Node and Express:
 * Step 1: Creating express app:<br/>
-*npm init -y*
-
-* Step 2:Installing the required packages
 ```console
-npm install express mongoose body-parser*
+npm init -y
 ```
-* Approach to Creating the Backend 
+
+* Step 2:Installing the required packages<br/>
+```console
+npm install express mongoose body-parser
+```
+* Approach to Creating the Backend <br/>
 * Create the MongoDB Models
 Design the MongoDB models for Appointments Doctors and Patient
-* Set up Express Routes
+* Set up Express Routes<br/>
 Create Seperate Express Routes for appoiontments, doctors and patients
-* connect to MongoDb 
-In *server.js*, connect To MongoDb using Mongoose.
+* connect to MongoDb <br/>
+In ```console 
+server.js```, connect To MongoDb using Mongoose.
 
+Should return 
+```console
+Server is running on port 5000
+```
 * Run the Backend using the following
-*node server.js*
+```console
+node server.js
+```
