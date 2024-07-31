@@ -15,14 +15,13 @@ npm init -y
 ```console
 npm install express mongoose body-parser
 ```
-* Approach to Creating the Backend <br/>
+Approach to Creating the Backend <br/>
 * Create the MongoDB Models
-Design the MongoDB models for Appointments Doctors and Patient
+* Design the MongoDB models for Appointments Doctors and Patient
 * Set up Express Routes<br/>
-Create Seperate Express Routes for appoiontments, doctors and patients
+* Create Seperate Express Routes for appoiontments, doctors and patients
 * connect to MongoDb <br/>
-In ```console 
-server.js```, connect To MongoDb using Mongoose.
+In ```server.js```, connect To MongoDb using Mongoose.
 
 Should return 
 ```console
